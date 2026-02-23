@@ -14,6 +14,20 @@ Strategy from GPT:
     tools that solve a concrete microproblem
     Apps where users search directly in play store
 
+Monetization strategy:
+  - GOOD: upgrade takes 2 hours, watch 1 ad to reduce 30 mins or buy speed boost; give free rewards constantly, offer optional boosts and not paywalls
+  - BAD: force ad every level; or artificial low progression without payment
+Distribution strategy:
+  - how users find your app: ASO (keywords in title), icon quality, screenshot qual, external traffic (reddit, tiktok)
+  - good screenshot strategy: idle factory tycoon
+Retention strategy:
+  - Day1: fast upgrades, quick dopamine hits
+  - Day2-7: introduce new mechanics, unlock automation
+  - Day7: prestige system opens - player sees a long term progression path
+ASO strategy:
+  - 
+
+
   First app should be like:
     1 core function that works fully
     clean UI
@@ -32,4 +46,24 @@ Strategy from GPT:
   Freelancer tax estimator austria/germany focus - calculate how much to reserve for tax
   Vehicle maintenance log (focused) - BMW servie log, ford fiesta maintenance tracker - with ads
   Rental ROI calculator (property investors)
-  
+
+
+Games strategy:
+  NOT RECOMMENDED: casual games: easy to play, short 1-5mins sessions: candy crush, subway surfer, angry birds, temple run
+  recommended: idle games: adventure capitalist, afk arena, idle miner
+  NOT RECOMMENDED: RPG games - time consuming, hard
+  vampire survivors-like
+Best invested time to income ratio games are:
+  IDLE / INCREMENTAL GAMES
+    - low art requirement
+    - low content req
+    - core system driven by math
+    - easy to expand
+    - rewarded ads
+    - can run with small active user base
+
+Monetization calculation based on idle games where D1 retention bigger than 35%, D7 retention bigger than 15%:
+  - 10K downloads, daily 2 ads, some in app pur, some remove ad pur: 400-500 EUR/month
+  - 50K downloads, 2000-2500 EUR/month
+  - 100K download, 4-5000 EUR/month
+
