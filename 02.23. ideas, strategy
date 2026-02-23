@@ -1,0 +1,35 @@
+Strategy from GPT:
+  20 hours/week and max cap of 80 hours per app is realistic
+  Beginners fail because:
+    no clear niche
+    no distribution strategy
+    no monetization plan
+    no retention measurement
+  DO NOT: 
+    random casual games
+    generic habit tracker
+    another to do list
+  DO:
+    narrow, painful niche utilities
+    tools that solve a concrete microproblem
+    Apps where users search directly in play store
+
+  First app should be like:
+    1 core function that works fully
+    clean UI
+    offline first, no login, no cloud and complex backend
+    AdMob integrated and optional 2,99$ one time cost to remove ads
+    Firebase analytics
+  Do not start a another app, in case one of the old onest reach: 100+ installs/week, 4,2+ rating, some revenue
+  For best performing app:
+    improve onboarding
+    imrpove UX
+    add premium features
+    add subscription
+
+  Austrian overtime salary calculator
+  Shift rotation pay calculator (EU)
+  Freelancer tax estimator austria/germany focus - calculate how much to reserve for tax
+  Vehicle maintenance log (focused) - BMW servie log, ford fiesta maintenance tracker - with ads
+  Rental ROI calculator (property investors)
+  
