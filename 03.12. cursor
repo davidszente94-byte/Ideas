@@ -1,1 +1,4 @@
 You miss: checking the feedbacks. I post to parallel 5-10 forums and post everywhere my apps, different posts for different apps that I parallel work on, how to track all the feedbacks, how not to lose all forums, how to track which project is in which phase? This is complete project management?
+
+
+Then the strategy is: creation of template for PWA (sutrcture of firebase analytics, crashlytics, cloud messaging, revenuecat, feedback mail) so that an idea can become within 1-2 hours an app and link can be shared to forums. I also should create a standard text for the forums. Then a second step would be creation of template for Cursor Flutter APP development, where only those ideas come in to play, which already raised traction in PWA state -> then rework them into apps for google play? Do I get it right or completely wrong?
