@@ -1,4 +1,135 @@
-You miss: checking the feedbacks. I post to parallel 5-10 forums and post everywhere my apps, different posts for different apps that I parallel work on, how to track all the feedbacks, how not to lose all forums, how to track which project is in which phase? This is complete project management?
+ROLE: You are a market researcher analyzing a potential niche app idea for Austria.
 
+GOAL: Determine whether there is a market opportunity for an app that helps people find local farmers, farm shops (Bauernladen), and "Ab-Hof Verkauf" producers in Austria.
 
-Then the strategy is: creation of template for PWA (sutrcture of firebase analytics, crashlytics, cloud messaging, revenuecat, feedback mail) so that an idea can become within 1-2 hours an app and link can be shared to forums. I also should create a standard text for the forums. Then a second step would be creation of template for Cursor Flutter APP development, where only those ideas come in to play, which already raised traction in PWA state -> then rework them into apps for google play? Do I get it right or completely wrong?
+COUNTRY: Austria (Österreich)
+
+LANGUAGE OF SEARCH: German
+
+Perform the following research steps.
+
+1. Forum demand analysis
+   Search forums and communities for questions about finding local farmers or farm shops.
+
+Sources to search:
+
+- Reddit (r/Austria, r/Wien, r/Graz, r/Salzburg)
+- DerStandard forum
+- gutefrage.net
+- parents.at
+- Facebook group discussions (if indexed)
+- general Google discussions
+
+Search queries in German:
+
+- "Wo finde ich Bauernläden in meiner Nähe"
+- "Ab Hof Verkauf Österreich Erfahrungen"
+- "direkt vom Bauern kaufen Österreich"
+- "Frische Milch direkt vom Bauern"
+- "Bauernladen in der Nähe Empfehlung"
+- "Liste Bauernläden Österreich"
+- "Regional einkaufen Bauernhof Österreich"
+
+Tasks:
+
+- List typical questions users ask.
+- Identify recurring pain points.
+- Estimate frequency of these discussions.
+
+2. Digital presence gap
+   Investigate how visible local Austrian producers are online.
+
+Tasks:
+
+- Estimate number of "Direktvermarkter" or farm shops in Austria.
+- Estimate how many appear on Google Maps.
+- Estimate how many have websites.
+- Investigate whether many small farmers only sell through "Selbstbedienungshütten" (self-service huts) without online presence.
+
+Provide approximate statistics or credible estimates if exact numbers are unavailable.
+
+3. Competitor analysis
+   Search for existing apps or platforms focused on local farm products in Austria.
+
+Look for:
+
+- Apps
+- Websites
+- directories
+- marketplaces
+
+Examples to check:
+
+- Bauernladen apps
+- Ab-Hof directories
+- farm product marketplaces
+- regional food finder apps
+
+For each competitor provide:
+
+- name
+- platform (app/web)
+- last update or activity
+- number of users/downloads if available
+- strengths
+- weaknesses
+
+4. Gap analysis
+   Identify what current solutions are missing.
+
+Examples:
+
+- no map
+- outdated locations
+- no opening hours
+- no real-time availability
+- no user reviews
+- no filtering by product
+- no mobile app
+
+Explain what a new app could do better.
+
+5. Monetization analysis
+   Evaluate realistic revenue models.
+
+Consider:
+
+- farmers paying for visibility
+- premium listings
+- user subscriptions
+- transaction commissions
+- affiliate sales
+- delivery integration
+
+Estimate whether small farmers in Austria would realistically pay for visibility.
+
+6. Market potential evaluation
+
+Score the idea from 1–10 based on:
+
+- demand
+- competition
+- monetization
+- ease of building an MVP
+
+Explain whether the idea is viable for a solo developer.
+
+7. MVP suggestion
+
+If viable, propose the simplest possible MVP that can be built in 1–2 days.
+
+Focus on:
+
+- minimal features
+- fastest implementation
+- easiest data collection method
+
+OUTPUT STRUCTURE:
+
+1. Demand from forums
+2. Digital gap
+3. Competitors
+4. Missing features
+5. Monetization
+6. Market score
+7. MVP concept
