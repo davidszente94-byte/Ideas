@@ -1,1 +1,3 @@
 XP should not be counted on top of the screen anymore. It should be shown in a loading horizontal bar. Blue color. When it is full, then level up.
+
+during the run I need a button which brings to main menu and aborts the current run. when clicked upon, a new window should come up (pausing the game behind) writing: "Are you sure to leave the game? Unsaved progress will be lost". then below 2 buttons "Yes" "No". Yes aborts and brings back to main menu. No brings you back to game and you continue where you left off.
